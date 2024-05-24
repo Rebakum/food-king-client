@@ -1,0 +1,41 @@
+.Slider {
+    width: 100%;
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Slider img {
+    width: 100%;
+    height: 100%;
+    
+
+}
+
+
+
+.slider1 {
+    background-image: linear-gradient(360deg, rgba(0, 0, 0, 0.2),rgba(0,0,0,0.7)),url(' https://cdn.kibrispdr.org/data/151/food-banner-background-2.jpg');
+  
+}
+
+.slider2 {
+    background-image: linear-gradient(360deg, rgba(0, 0, 0, 0.2),rgba(0,0,0,0.7)),url('https://as1.ftcdn.net/v2/jpg/07/46/88/52/1000_F_746885208_MpvbbUeRIz5nzC1OmJslQtNcewYaJSBP.jpg');
+
+   
+}
+
+.slider3 {
+    background-image: linear-gradient(360deg, rgba(0, 0, 0, 0.2),rgba(0,0,0,0.7)),url(' https://c7.alamy.com/comp/2ATH319/cooking-banner-top-view-free-copy-space-2ATH319.jpg');
+
+}
+
+.slider4 {
+    background-image: linear-gradient(360deg, rgba(0, 0, 0, 0.2),rgba(0,0,0,0.7)),url('https://img.freepik.com/premium-photo/photo-portrait-happy-young-people-woman-friends-eating-delicious-pizza_763111-113217.jpg?w=996');
+
+}

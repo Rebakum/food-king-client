@@ -1,0 +1,146 @@
+[
+    {
+      "food_name": "Banana Bread",
+      "food_image": "https://as2.ftcdn.net/v2/jpg/01/91/63/25/1000_F_191632554_yM8luAXk5HHX1D2o6OzSlOwtlDAp9YOx.jpg",
+      "food_quantity": 3,
+      "pickup_location": "456 Oak St, Townsville",
+      "expired_datetime": "2024-05-12",
+      "current_date": "20244-05-14",
+      "additional_notes": "Gluten-free, made with organic bananas",
+      "donator": {
+        "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+        "name": "Alice Smith",
+        "email": "alice@example.com"
+      },
+      "food_status": "available"
+    },
+    {
+      
+      "food_name": "Vegetable Soup",
+      "food_image": "https://as1.ftcdn.net/v2/jpg/06/07/83/76/1000_F_607837697_RaFl9VbfPVgQReI63ZoKsZNQCqKu0lI4.jpg",
+      "food_quantity": 2,
+      "pickup_location": "789 Elm St, Villagetown",
+      "expired_datetime": "2024-05-14",
+      "current_date": "20244-05-14",
+      "additional_notes": "Homemade with fresh vegetables",
+      "donator": {
+        "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+        "name": "Bob Johnson",
+        "email": "bob@example.com"
+      },
+      "food_status": "available"
+    },
+    {
+      
+      "food_name": "Chocolate Chip Cookies",
+      "food_image": "https://handletheheat.com/wp-content/uploads/2020/10/BAKERY-STYLE-CHOCOLATE-CHIP-COOKIES-9-637x637-1.jpg",
+      "food_quantity": 10,
+      "pickup_location": "321 Pine St, Forestville",
+      "expired_datetime": "2024-05-16",
+      "current_date": "20244-05-14",
+      "additional_notes": "Soft and chewy cookies",
+      "donator": {
+        "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+        "name": "Emily Davis",
+        "email": "emily@example.com"
+      },
+      "food_status": "available"
+    },
+    {
+      
+      "food_name": "Chicken Salad",
+      "food_image": "https://media.istockphoto.com/id/1181240435/photo/grilled-chicken-salad.jpg?s=2048x2048&w=is&k=20&c=0SVf49R3RZbLavheDi4O6HIKw4b7HvDDa71TTkjY774=",
+      "food_quantity": 4,
+      "pickup_location": "567 Maple St, Grovetown",
+      "expired_datetime": "2024-05-13",
+      "current_date": "20244-05-14",
+      "additional_notes": "Grilled chicken with fresh greens",
+      "donator": {
+        "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+        "name": "David Wilson",
+        "email": "david@example.com"
+      },
+      "food_status": "available"
+    },
+    {
+      
+      "food_name": "Fruit Platter",
+      "food_image": "https://veggiedesserts.com/wp-content/uploads/2018/07/Fruit-Platter-a.jpg",
+      "food_quantity": 1,
+      "pickup_location": "234 Cedar St, Orchardtown",
+      "expired_datetime": "2024-05-15",
+      "current_date": "20244-05-14",
+      "additional_notes": "Assorted fresh fruits",
+      "donator": {
+        "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+        "name": "Sophia Martinez",
+        "email": "sophia@example.com"
+      },
+      "food_status": "available"
+    },
+    {
+      
+      "food_name": "Rice and Beans",
+      "food_image": "https://st2.depositphotos.com/2252541/6478/i/950/depositphotos_64783149-stock-photo-mexican-rice.jpg",
+      "food_quantity": 6,
+      "pickup_location": "876 Walnut St, Riverside",
+      "expired_datetime": "2024-05-14",
+      "current_date": "20244-05-14",
+      "additional_notes": "Vegan and gluten-free",
+      "donator": {
+        "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+        "name": "Michael Brown",
+        "email": "michael@example.com"
+      },
+      "food_status": "available"
+    },
+    {
+      
+      "food_name": "Cheese Pizza",
+      "food_image": "https://img.freepik.com/premium-photo/photo-portrait-happy-young-people-woman-friends-eating-delicious-pizza_763111-113217.jpg?w=996",
+      "food_quantity": 2,
+      "pickup_location": "654 Birch St, Hilltop",
+      "expired_datetime": "2024-05-13",
+      "current_date": "20244-05-14",
+      "additional_notes": "Thin crust with extra cheese",
+      "donator": {
+        "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+        "name": "Olivia Taylor",
+        "email": "olivia@example.com"
+      },
+      "food_status": "available"
+    },
+    {
+      
+      "food_name": "Sushi Rolls",
+      "food_image": "https://www.heinens.com/content/uploads/2023/06/Tuna-Sushi-Rolls-800x550-1.jpg",
+      "food_quantity": 8,
+      "pickup_location": "987 Pine St, Seaside",
+      "expired_datetime": "2024-05-16",
+      "current_date": "20244-05-14",
+      "additional_notes": "Assorted sushi rolls",
+      "donator": {
+        "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+        "name": "Daniel Lee",
+        "email": "daniel@example.com"
+      },
+      "food_status": "available"
+    },
+    {
+      
+      "food_name": "Pasta Salad",
+      "food_image": "https://images.unsplash.com/photo-1576402187878-974f70c890a5?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "food_quantity": 3,
+      "pickup_location": "543 Oak St, Parkside",
+      "expired_datetime": "2024-05-12",
+      "current_date": "20244-05-14",
+      "additional_notes": "Refreshing pasta salad with veggies",
+      "donator": {
+        "image": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+        "name": "Emma Johnson",
+        "email": "emma@example.com"
+      },
+      "food_status": "available"
+    }
+  ]
+  
