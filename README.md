@@ -1,3 +1,4 @@
+# My Project Name: Food King
 ## Run for local Matchen:
 ```
 -clone:https://github.com/Rebakum/food-king-client
@@ -5,12 +6,19 @@
 -npm i
 -npm run dev
 ```
+##  Feature:
+Real-Time Order Tracking: Allow customers to track their food delivery in real-time on a map.
+
+Customizable Menu Builder: Enable restaurants to create and update their menus easily through an intuitive interface.
+
+Advanced Search and Filters: Provide users with powerful search and filtering options to quickly find specific dishes or restaurants.
+
+Integrated Loyalty Program: Implement a loyalty program where customers can earn points and redeem rewards for frequent orders.
+
+Multi-Language Support: Support multiple languages to cater to a diverse customer base and improve accessibility.
 
 ## React + Vite + mongodbAtlas 
 
-
-
-## My Project Name: Food King
 
 server github link:
  (https://github.com/Porgramming-Hero-web-course/b9a11-server-side-Rebakum)
