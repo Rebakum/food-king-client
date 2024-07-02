@@ -1,21 +1,50 @@
 # My Project Name: Food King
 ## Run for local Matchen:
 ```
+-Replace all api key in .env file
 -clone:https://github.com/Rebakum/food-king-client
 -clone:https://github.com/Rebakum/food-king-server
 -npm i
 -npm run dev
 ```
-##  Feature:
-Real-Time Order Tracking: Allow customers to track their food delivery in real-time on a map.
+##  Features:
+Authentication System:
 
-Customizable Menu Builder: Enable restaurants to create and update their menus easily through an intuitive interface.
+Implement secure authentication using email/password and social logins (Google/Github).
+Display relevant error messages on the login and registration pages.
+Homepage:
 
-Advanced Search and Filters: Provide users with powerful search and filtering options to quickly find specific dishes or restaurants.
+Banner/Slider: Add an eye-catching banner/slider to engage users visually.
+Featured Foods: Showcase at least 6 food items with details like image, name, donator image & name, quantity, pickup location, expired date/time, and additional notes.
+Extra Sections: Include 2 additional relevant sections to enhance user experience.
+Add Food (Private Route):
 
-Integrated Loyalty Program: Implement a loyalty program where customers can earn points and redeem rewards for frequent orders.
+Create a form for adding food items including fields for food name, image, quantity, pickup location, expired date/time, additional notes, donator image/name/email, and set the default status to "available".
+Upon submission, save the data to a MongoDB collection and display a success message.
+Available Foods Page:
 
-Multi-Language Support: Support multiple languages to cater to a diverse customer base and improve accessibility.
+Search Functionality: Implement search by food name.
+Sorting: Allow sorting by food expire date.
+Layout Toggle: Initially display food items in a three-column layout; provide a button to switch to a two-column layout for user preference.
+Display all available foods with details and a "View Details" button to navigate to the food details page.
+Single Food Details Page:
+
+Show detailed information about a selected food item including donator name, pickup location, food image, name, quantity, expired date/time.
+Include a "Request" button that opens a modal with pre-filled information for requesting the food.
+Manage My Foods (Private Route):
+
+Display a table of foods added by the logged-in user.
+Include options to update (via form or modal) or delete foods with confirmation dialogs.
+My Food Request Page (Private Route):
+
+Show all food requests made by the logged-in user in a tabular format.
+Display relevant information such as donator name, pickup location, expire date, request date.
+Additional Guidelines:
+JWT Authentication: Implement JWT for secure authentication on private routes.
+404 Page: Create a custom 404 page with a back-to-home button and an interesting image/gif.
+Toasts/Notifications: Use notifications for CRUD operations instead of browser alerts.
+Explore New Packages: Implement two chosen packages from options like react-elastic-carousel, Lottie-react, Framer Motion, or React Hook Form.
+Layout Responsiveness: Ensure the website is responsive across mobile, tablet, and desktop views for optimal user experience.
 
 ## React + Vite + mongodbAtlas 
 
